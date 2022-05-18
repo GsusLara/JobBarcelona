@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300&family=IBM+Plex+Sans:wght@200&family=Roboto&display=swap');
+
+.principal{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.card:hover{
+ background-color: rgb(212, 167, 252);
+ border: 1px solid rgb(42, 1, 139);
+}
+.contenido{
+    overflow-x: scroll;
+}
+.headerCard{
+    height: 60%;
+}
+.bottomCard{
+    height: 40%;
+}
+.card-button{
+    color:#ffffff;
+    border: none;
+    background-color: green;
+    border-radius: 15px;
+    font-size: small;
+}
